@@ -1,0 +1,16 @@
+
+
+body{
+
+}
+
+.btn{
+  background-color: gray;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 2px solid black;
+  color: rgb(4, 49, 91);
+  font-weight: 700;
+
+}
