@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  padding: 20px;
+}
+
+button{
+  padding: 15px 30px;
+  font-size: 30px;
+  font-weight: 600;
+  background-color: lightseagreen;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
